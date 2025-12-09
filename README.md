@@ -3,7 +3,7 @@
 Visual Data Explorer, Python ile geliştirilmiş interaktif bir veri analiz aracıdır.  
 Kullanıcıların CSV dosyalarını yükleyip veriyi görüntüleyebildiği, filtreleyebildiği, özet istatistik çıkarabildiği ve grafik oluşturabildiği bir masaüstü uygulamasıdır.
 
- 🚀 Özellikler
+  Özellikler
 -  **CSV Dosyası Yükleme**
 - Metin tabanlı filtreleme
 - Veri önizleme (table view)
